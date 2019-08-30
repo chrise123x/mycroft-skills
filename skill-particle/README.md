@@ -2,8 +2,8 @@ To submit your skill, replace this file with text from
 https://rawgit.com/MycroftAI/mycroft-skills/master/meta_editor.html
 
 
-## YOUR SKILL NAME
-One line description of the skill
+## Skill-Particle
+For use with the Particle Photon
 
 ## Description 
 A more verbose description, including any extra instructions or
